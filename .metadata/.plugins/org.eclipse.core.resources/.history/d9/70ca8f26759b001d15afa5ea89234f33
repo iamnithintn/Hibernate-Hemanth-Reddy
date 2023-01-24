@@ -1,0 +1,11 @@
+package com.nithin;
+
+public class HelperClass {
+
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	
+}

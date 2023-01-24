@@ -1,0 +1,8 @@
+package com.nithin;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+public class Mobiles {
+	
+}

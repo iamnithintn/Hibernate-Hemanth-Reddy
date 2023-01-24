@@ -1,0 +1,8 @@
+package com.nithin;
+
+public class HelperClass {
+
+	Mobiles m = new Mobiles();
+	
+	
+}

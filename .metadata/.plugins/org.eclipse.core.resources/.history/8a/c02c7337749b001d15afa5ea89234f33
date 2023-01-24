@@ -1,0 +1,21 @@
+package com.nithin;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+
+@Entity
+public class Mobiles {
+	
+	@Id
+	int id;
+	String brand;
+	double cost;
+	
+	public static void main(String[] args) {
+		
+		Mobiles m = new Mobiles();
+		
+		
+	}
+}
